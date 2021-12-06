@@ -1,0 +1,11 @@
+如果微信表情想要找到有几种方法
+1.创建一个微信公众号
+2.创建一个企业微信
+3.在本地手机查找（有一些加密了）
+3.1具体步骤如下：
+打开一款能搜索的文件管理器，比如mt
+找到如下路径
+/storage/emulated/0/Android/data/com.tencent.mm/MicroMsg/{字母数字乱码}emoji/
+在搜索_thumb
+不过有一些显示图片已损坏
+by Android 11 ,miui12.5 微信8.0.16 
